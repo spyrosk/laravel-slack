@@ -1,5 +1,5 @@
 {
-    "name": "gpressutto5/laravel-slack",
+    "name": "spyrosk/laravel-slack",
     "description": "Slack notification for Laravel as it should be.",
     "keywords": ["laravel", "slack"],
     "type": "library",
